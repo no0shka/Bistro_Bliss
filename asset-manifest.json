@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12e92aac.css",
+    "main.js": "/static/js/main.46cd297c.js",
+    "static/media/pages1.png": "/static/media/pages1.47e755273d9eafb2ed8c.png",
+    "static/media/pages2test.png": "/static/media/pages2test.b110525dad8398b5104b.png",
+    "static/media/home-bg-container.jpg": "/static/media/home-bg-container.6436f2cebdc57ef526a8.jpg",
+    "static/media/blog-burger.png": "/static/media/blog-burger.93e7631d33fc8808863f.png",
+    "static/media/blog-pizza.png": "/static/media/blog-pizza.caa96b3765b0f4e9a5d7.png",
+    "static/media/article3.png": "/static/media/article3.cc2d67b1fe66cdd27cbf.png",
+    "static/media/article4.png": "/static/media/article4.dfde571e0853ebbfa109.png",
+    "static/media/blog-fries.png": "/static/media/blog-fries.dd61392f5aad40eb4d2a.png",
+    "static/media/article1.png": "/static/media/article1.3ee6c1a0f81e15d970d8.png",
+    "static/media/article2.png": "/static/media/article2.60d7ef2f0b06200087c4.png",
+    "static/media/blog-cheesecake.png": "/static/media/blog-cheesecake.8b86d03301544280643f.png",
+    "static/media/blog-tenders.png": "/static/media/blog-tenders.95dff1276b420cdac4fb.png",
+    "static/media/review3.png": "/static/media/review3.3ad7000db639514b1b0e.png",
+    "static/media/review1.png": "/static/media/review1.1c97cd7d2553b3705b62.png",
+    "static/media/review2.png": "/static/media/review2.137b9ff9852b1b34a1e2.png",
+    "index.html": "/index.html",
+    "main.12e92aac.css.map": "/static/css/main.12e92aac.css.map",
+    "main.46cd297c.js.map": "/static/js/main.46cd297c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e92aac.css",
+    "static/js/main.46cd297c.js"
+  ]
+}
