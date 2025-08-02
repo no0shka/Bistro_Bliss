@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bistro_Bliss/static/css/main.4e947886.css",
-    "main.js": "/Bistro_Bliss/static/js/main.89bd817c.js",
+    "main.js": "/Bistro_Bliss/static/js/main.dd6ca9c4.js",
     "static/media/map.png": "/Bistro_Bliss/static/media/map.e2a58e249380b4a770ac.png",
     "static/media/pages1.png": "/Bistro_Bliss/static/media/pages1.47e755273d9eafb2ed8c.png",
     "static/media/pages2test.png": "/Bistro_Bliss/static/media/pages2test.b110525dad8398b5104b.png",
@@ -47,10 +47,10 @@
     "static/media/logo.svg": "/Bistro_Bliss/static/media/logo.2e7bfa1df6e473d0504c1dcf3fb127d0.svg",
     "index.html": "/Bistro_Bliss/index.html",
     "main.4e947886.css.map": "/Bistro_Bliss/static/css/main.4e947886.css.map",
-    "main.89bd817c.js.map": "/Bistro_Bliss/static/js/main.89bd817c.js.map"
+    "main.dd6ca9c4.js.map": "/Bistro_Bliss/static/js/main.dd6ca9c4.js.map"
   },
   "entrypoints": [
     "static/css/main.4e947886.css",
-    "static/js/main.89bd817c.js"
+    "static/js/main.dd6ca9c4.js"
   ]
 }
